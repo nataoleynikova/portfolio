@@ -19,7 +19,7 @@ const Card = () => {
 
 			<div className='flex-1 md:text-left text-center sm:mt-10'>
 				<h1 className='md:text-5xl text-2xl md:leading-normal leading-10 text-white'>
-					<span className='text-cyan-600 md:text-6xl text-5xl font-semibold'>Привет!<br/></span> Меня зовут Олейникова Наталья
+					<span className='text-cyan-600 md:text-6xl text-5xl font-semibold'>Привет!<br/></span> Меня зовут Наталья Олейникова
 				</h1>
 				
 				<h4 className='md:text-2xl text-lg md:leading-normal leading-5 mt-4 text-gray-500'>Я — начинающий Frontend-разработчик</h4>
